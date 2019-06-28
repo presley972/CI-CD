@@ -9,7 +9,6 @@ cache:
 
 before_install:
   - npm install
-  - bower install
 
 scripts:
 
