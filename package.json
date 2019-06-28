@@ -1,0 +1,18 @@
+{
+  "name": "ipssi",
+  "version": "1.0.0",
+  "description": "IPSSI Evaluation",
+  "author": "Laurent Bassin <laurent@bassin.info>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.10.2",
+    "retire": "^1.6.3",
+    "twly": "^4.0.4"
+  }
+}
